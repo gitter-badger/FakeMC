@@ -1,5 +1,7 @@
 # FakeMC
 
+[![Join the chat at https://gitter.im/InverseIntegral/FakeMC](https://badges.gitter.im/InverseIntegral/FakeMC.svg)](https://gitter.im/InverseIntegral/FakeMC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/InverseIntegral/FakeMC.svg?branch=master)](https://travis-ci.org/InverseIntegral/FakeMC)
 ## Description
 FakeMC is a fake minecraft server that shows false information in the server list. You can configure specific information using a `.json` configuration file.
